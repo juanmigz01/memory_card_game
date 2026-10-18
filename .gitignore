@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+save_data.json
+
+build/
+dist/
+*.spec
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db

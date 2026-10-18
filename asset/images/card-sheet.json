@@ -1,0 +1,138 @@
+{ "frames": {
+   "cards 0.png": {
+    "frame": { "x": 0, "y": 0, "w": 100, "h": 146 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 146 },
+    "sourceSize": { "w": 100, "h": 146 },
+    "duration": 100
+   },
+   "cards 1.png": {
+    "frame": { "x": 100, "y": 0, "w": 100, "h": 146 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 146 },
+    "sourceSize": { "w": 100, "h": 146 },
+    "duration": 100
+   },
+   "cards 2.png": {
+    "frame": { "x": 200, "y": 0, "w": 100, "h": 146 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 146 },
+    "sourceSize": { "w": 100, "h": 146 },
+    "duration": 100
+   },
+   "cards 3.png": {
+    "frame": { "x": 300, "y": 0, "w": 100, "h": 146 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 146 },
+    "sourceSize": { "w": 100, "h": 146 },
+    "duration": 100
+   },
+   "cards 4.png": {
+    "frame": { "x": 0, "y": 146, "w": 100, "h": 146 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 146 },
+    "sourceSize": { "w": 100, "h": 146 },
+    "duration": 100
+   },
+   "cards 5.png": {
+    "frame": { "x": 100, "y": 146, "w": 100, "h": 146 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 146 },
+    "sourceSize": { "w": 100, "h": 146 },
+    "duration": 100
+   },
+   "cards 6.png": {
+    "frame": { "x": 200, "y": 146, "w": 100, "h": 146 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 146 },
+    "sourceSize": { "w": 100, "h": 146 },
+    "duration": 100
+   },
+   "cards 7.png": {
+    "frame": { "x": 300, "y": 146, "w": 100, "h": 146 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 146 },
+    "sourceSize": { "w": 100, "h": 146 },
+    "duration": 100
+   },
+   "cards 8.png": {
+    "frame": { "x": 0, "y": 292, "w": 100, "h": 146 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 146 },
+    "sourceSize": { "w": 100, "h": 146 },
+    "duration": 100
+   },
+   "cards 9.png": {
+    "frame": { "x": 100, "y": 292, "w": 100, "h": 146 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 146 },
+    "sourceSize": { "w": 100, "h": 146 },
+    "duration": 100
+   },
+   "cards 10.png": {
+    "frame": { "x": 200, "y": 292, "w": 100, "h": 146 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 146 },
+    "sourceSize": { "w": 100, "h": 146 },
+    "duration": 100
+   },
+   "cards 11.png": {
+    "frame": { "x": 300, "y": 292, "w": 100, "h": 146 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 146 },
+    "sourceSize": { "w": 100, "h": 146 },
+    "duration": 100
+   },
+   "cards 12.png": {
+    "frame": { "x": 0, "y": 438, "w": 100, "h": 146 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 146 },
+    "sourceSize": { "w": 100, "h": 146 },
+    "duration": 100
+   },
+   "cards 13.png": {
+    "frame": { "x": 100, "y": 438, "w": 100, "h": 146 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 146 },
+    "sourceSize": { "w": 100, "h": 146 },
+    "duration": 100
+   },
+   "cards 14.png": {
+    "frame": { "x": 200, "y": 438, "w": 100, "h": 146 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 100, "h": 146 },
+    "sourceSize": { "w": 100, "h": 146 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.15.5-dev",
+  "image": "card-sheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 400, "h": 584 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Sprite Sheet", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
