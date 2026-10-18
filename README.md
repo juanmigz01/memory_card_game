@@ -5,6 +5,7 @@
 # Memory Card Matching Game
 
 [![itch.io](https://img.shields.io/badge/Play_on-itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://katsumi001.itch.io/memory-card-game)
+[![Watch the Trailer](https://img.shields.io/badge/Watch_the-Trailer-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=NjwOzrBrXuM)
 
 A memory matching game built with Python and Pygame. Pick a difficulty, flip cards, find pairs, and survive as the board grows from 2x2 up to 5x4, all while managing a heart-based lives system and chasing a high score.
 
@@ -35,6 +36,8 @@ The biggest update to the game so far. Highlights:
 ## Download & Play
 
 **Play on itch.io:** [katsumi001.itch.io/memory-card-game](https://katsumi001.itch.io/memory-card-game)
+
+**Watch the trailer:** [youtube.com/watch?v=NjwOzrBrXuM](https://www.youtube.com/watch?v=NjwOzrBrXuM)
 
 **Windows (no Python required):** Download `MemoryCardGame.zip` from this repo, extract it, and run `MemoryCardGame.exe`.
 
